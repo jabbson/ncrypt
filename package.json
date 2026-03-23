@@ -1,0 +1,17 @@
+{
+  "name": "ncrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crypt.ts",
+  "scripts": {
+    "help": "npx ts-node crypt.ts --help"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsx": "^4.21.0"
+  }
+}
